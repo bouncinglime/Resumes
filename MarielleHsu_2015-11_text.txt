@@ -1,0 +1,65 @@
+Marielle Hsu | contact@mariellehsu.com
+Portfolio : mariellehsu.com | LinkedIn : linkedin.com/in/mariellehsu
+
+------------------------------------------
+Creating efficient, intuitive experiences.
+------------------------------------------
+
+++++++++++
++ PROJECTS
++
++ Mobile & Web Apps
++-- Tasks : user interviews, card sorting, sketching, root cause identification, scope definition, research, paper prototype, interaction representation, error handling, testing, iteration, clickable prototype.
++-- Tools : Post-Its, Balsamiq, paper prototype, POPapp (mobile and web), scissors and tape, pen and paper, Invision.
++-- Roles : Schedule and conduct user and stakeholder interviews. Incorporate results and insights. Conduct and present market research. Present and defend design decisions. Build, test, and refine prototypes of increasing fidelity.
++
++ (Re)Branding
++-- Tasks : stakeholder interviews, user research, card sorting, partner collaboration and communication, client communication, understanding a project brief, time management, market and competitive research, information architecture, wireframing, accessibility for non-standard users, appropriate use of design triggers.
++-- Tools : Google Drive, Google Forms, group collaboration, Zurb.com design triggers, pen and paper, Omnigraffle, whiteboard, Invision.
++-- Roles : Coordinate workload with project partners. Set up systems for sharing work and schedules. Communicate project status with clients and stakeholders. Research and incorporate accessibility and design triggers.
++
++ Design & Develop
++-- Tasks : HTML, CSS, JavaScript, jquery, version control, security, documentation, code standards, troubleshooting, research, interviews, typography, layout, intuitive flow, grid systems, color palettes, mood boards, personal branding, write/refine/understand design specification documents, establish and maintain consistent messaging.
++-- Tools : emacs, Notepad++, Google Drive, scissors and tape, pen and paper, Omnigraffle, whiteboard, Invision, github.
++-- Roles : Learn and implement standards for code. Document all code. Understand and synthesize color theory, typography, and grid systems. Utilize design and functional specification documents.
++
++ Process Optimization
++-- Tasks : communication, scope creep, setting expectations, user research and interviews, mockups, prototypes, documentation, automation, business best practices, physical and digital organization, archiving, labelling, teaching, training, standards and principles of efficiency.
++-- Tools : Axure, jsfiddle, Google Drive, Google Calendar, pen and paper, Omnigraffle, whiteboard, Invision.
++-- Roles : Review, document, and analyze current business, manufacturing, or production systems. Discuss pain points and bottlenecks. Implement and document changes. Check in with users and stakeholders to evaluate impact.
+++++++++++++
+
+++++++++++++
++ EXPERIENCE
++
++ Production Assistant & Design Consultant | Oakland, CA | LoomGrown | 2015
++ Application/UX Designer | San Francisco, CA | Public Utilities Commission | 2015
++ Visual/UX Designer | San Francisco, CA | Department of Public Works | 2014 - 2015
++ Retail Interaction Designer | San Francisco, CA | Other Machine Co. | 2013 - 2014
++ Quality Assurance Tester | San Francisco, CA | Gree International, Inc. | 2012 - 2013
++ QA Process Consultant | Berkeley, CA | Crater House | 2012
++ Quality Assurance Tester/Lead | San Francisco, CA | Songbird | 2009 - 2012
++ Systems Administrator | Oakland, CA | Xantrion Consulting | 2009
++++++++++++
+
++++++++++++
++ EDUCATION
++
++ General Assemb.ly | San Francisco, CA | User Experience Design | 2014
++ University of California, Berkeley | Berkeley, CA | Summer Mandarin Chinese intensive | 2007
++ University of St Andrews | Scotland | Semester abroad in Physics and CS | 2006
++ Bryn Mawr College | Bryn Mawr, PA | Bachelors degree in Physics | 2003 - 2007
++++++++++++
+
++++++++++++
++ EXTRA
++
++ Reading sci-fi, fantasy, historical fiction, non-fiction, cultural history, linguistic analysis, science, poetry, etc.
++ Sailing dinghies and keelboats.
++ Climbing trees.
++ Building big art.
++ Making small art.
++ Fixing mechanical problems.
++ Dancing solo modern and partnered blues & lindy.
++ Music. Art. Camping. Travel. Fire safety.
++++++++++++
