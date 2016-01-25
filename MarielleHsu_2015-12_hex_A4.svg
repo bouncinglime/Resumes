@@ -48,8 +48,8 @@
      showgrid="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="0.45"
-     inkscape:cx="388.97047"
-     inkscape:cy="603.98317"
+     inkscape:cx="370.52314"
+     inkscape:cy="612.56139"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -59,7 +59,7 @@
      fit-margin-left="1"
      fit-margin-right="1"
      fit-margin-bottom="1"
-     units="cm"
+     units="mm"
      inkscape:guide-bbox="true"
      showborder="true" />
   <text
@@ -282,7 +282,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.25px;font-family:'Museo 300';-inkscape-font-specification:'Museo 300, '"
          id="flowPara4421">LoomGrown   2015</flowPara><flowPara
          id="flowPara4159"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Sans;-inkscape-font-specification:'Sans Bold'"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Sans;-inkscape-font-specification:'Sans Bold'" /><flowPara
          id="flowPara4161"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.25px;font-family:'Museo 300';-inkscape-font-specification:'Museo 300 Light'"><flowSpan
    id="flowSpan4455"
@@ -290,7 +290,7 @@
          id="flowPara4163"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.25px;font-family:'Museo 300';-inkscape-font-specification:'Museo 300 Light'">Public Utilites Comission   2015</flowPara><flowPara
          id="flowPara4165"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Sans;-inkscape-font-specification:'Sans Bold'"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Sans;-inkscape-font-specification:'Sans Bold'" /><flowPara
          id="flowPara4167"
          style="font-size:12.25px"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.25px;font-family:'Museo 700';-inkscape-font-specification:'Museo 700 Semi-Bold'"
@@ -298,7 +298,7 @@
          id="flowPara4171"
          style="font-size:12.25px">Department of Public Works    2014 - 2015</flowPara><flowPara
          id="flowPara4173"
-         style="font-size:10px"> </flowPara><flowPara
+         style="font-size:10px" /><flowPara
          id="flowPara4175"
          style="font-size:12.25px"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.25px;font-family:'Museo 700';-inkscape-font-specification:'Museo 700 Semi-Bold'"
@@ -306,7 +306,7 @@
          id="flowPara4179"
          style="font-size:12.25px">Other Machine Co.   2013 - 2014</flowPara><flowPara
          id="flowPara4181"
-         style="font-size:10px"> </flowPara><flowPara
+         style="font-size:10px" /><flowPara
          id="flowPara4183"
          style="font-size:12.25px"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.25px;font-family:'Museo 700';-inkscape-font-specification:'Museo 700 Semi-Bold'"
@@ -314,7 +314,7 @@
          id="flowPara4187"
          style="font-size:12.25px">Gree International, Inc.   2012 - 2013</flowPara><flowPara
          id="flowPara4189"
-         style="font-size:10px"> </flowPara><flowPara
+         style="font-size:10px" /><flowPara
          id="flowPara4191"
          style="font-size:12.25px"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.25px;font-family:'Museo 700';-inkscape-font-specification:'Museo 700 Semi-Bold'"
@@ -322,7 +322,7 @@
          id="flowPara4195"
          style="font-size:12.25px">Crater House   2012</flowPara><flowPara
          id="flowPara4197"
-         style="font-size:10px"> </flowPara><flowPara
+         style="font-size:10px" /><flowPara
          id="flowPara4199"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.25px;font-family:'Museo 700';-inkscape-font-specification:'Museo 700 Semi-Bold'">Quality Assurance Tester/Lead</flowPara><flowPara
          style="font-size:12.25px"
