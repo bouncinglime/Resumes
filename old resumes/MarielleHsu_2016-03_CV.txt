@@ -1,0 +1,114 @@
+Marielle Hsu | contact@mariellehsu.com
+
+Portfolio : mariellehsu.com | LinkedIn : linkedin.com/in/mariellehsu | formatted resume : mariellehsu.com/resume
+
+Creating efficient, intuitive experiences.
+
+Highly-organized woman-in-tech looking for interesting puzzles to solve. My artistic upbringing instilled a keen eye for aesthetics and creative solutions, and I am now interested in turning those talents to creating efficient ways for people to move through spaces. Always willing to dig deeper to find the roots of problems, I bring a collection of abilities that open new perspectives, both globally and at the implementation level. I specialize in creative thinking and problem-solving, with a strong emphasis on accuracy and efficiency.
+
+
+EXPERIENCE
+
+Loom Grown
+Production Assistant and Design Consultant (part time, contract) | San Francisco Bay Area
+October 2015 - December 2015
+Receive training on the use of the ShopBot Alpha and Trotec300 CNC machines. Independent work to cut out pieces for production of the Loom Grown planter boxes. Troubleshoot issues with cutting paths and design files. Assist with path planning and design optimization to minimize waste material. User experience consultation on the accompanying application and user interactions.
+
+San Francisco Public Utilities Commission
+Application Interaction Designer (part time, contract) | San Francisco, CA
+March 2015 - July 2015
+Part-time contract doing user experience research and design for an internal timekeeping module integrated into task management software. Editing the specifications and requirements document, sketching thumbnails for process flow, mapping and understanding current systems, market research into other timekeeping software, and creating Balsamiq wireframes for the new module. Integrating with existing systems, information architecture, and style guides. Included several design review meetings with various business-level stakeholders, but mostly independent and self-directed work.
+
+San Francisco Department of Public Works
+Visual/UX Designer (part time, permanent) | San Francisco, CA
+October 2014 - May 2015
+Part-time contract doing graphic design and UX for an internal application. Currently, cost estimates for all DPW projects are created as spreadsheets with multiple versions saved on various computers. Some are printed, information filled out by another party, and then entered back into yet another document. Over the past two years, a centralized database of all of this project cost estimate data has been hand-built by several engineers to begin to simplify and digitize this process. I've been brought on board to design and build the web-based user interface for this database. So far, this has involved writing CSS and HTML, conducting user interviews, presenting and defending my ideas to higher-level administrators, and semi-patiently waiting for the gears of city bureaucracy to turn.
+
+General Assemb.ly
+Student, User Experience Design Intensive (full time) | San Francisco, CA
+June 2014 - August 2014
+This 10-week, full-time intensive course took us through all of the skills a designer needs in five projects. We began with user research, sketching, and basic paper prototypes for a simple mobile app concept. The next project was a website redesign with formal project briefs and specific personas to accommodate for which we created wire frames, site maps, user flows, and a clickable prototype. All design decisions were backed up with user and market research.
+The two following weeks were spent on front-end web development and visual design for our portfolios. We then jumped straight into our final three-week projects (assigned, and with assigned partners). These were all real-world problems from companies who had relationships with GA or individuals there. Details can be found on my portfolio.
+
+Other Machine Co.
+Retail Interaction Designer (permanent) | San Francisco, CA
+December 2013 - March 2014
+Solely responsible for contents, flow, launch, and monitoring of the web store supporting our portable CNC milling machine. Design and implement packaging, creative kit contents, and customer outreach. Investigate, test, order, and track inventory. Research and report on market trends in the "maker" space across the globe, as well as within small-scale manufacturing. Ensure that all customers have a pleasant and joyful experience.
+
+GREE International, Inc
+QA Tester (permanent) | San Francisco, CA
+December 2012 - September 2013
+Conduct black-box testing of mobile games on iOS and Android. Assist with QA sign-off leading up to submission to the Apple App Store and Google Play. Ensure consistency across testcases and bug reports. Mentor new hires. Launched the first NFL-branded game in the iTunes App Store. Solely responsible for all aspects of QA for several core features on our Call to Arms (real-time strategy) game.
+
+Crater House
+QA Process Consultant / Engineer (contract) | Berkeley, CA
+November 2012 - December 2012
+Assisting on a part-time consulting basis with the setup of a formal QA process for the current game in development. Filing bugs in Asana, prioritizing tasks, reporting on time required for QA.
+
+Pioneers of the Inevitable
+QA / IT Buddy for Songbird (contract to permanent) | San Francisco, CA
+April 2009 - July 2012
+Run set testcases on software (mostly black-box testing). Write bug reports for engineers. Edit and update testcases as features change. Handle all aspects of QA for specific features within each release. Perform final verifications of completed bugs. Confirm and reproduce community bugs for engineers. Develop high-level test plan for new products and features. Coordinate testing with both local and remote QA groups. Assist with community engagement via GetSatisfaction, facebook, and Twitter.
+Also took on the role of IT Buddy to assist with the 2.0 launch in June 2012. Most of the responsibilities were QA of the website, but also included making changes to copy, code, and content. Had a quick overview of AWS as well.
+
+Xantrion
+Systems Administrator (permanent) | Oakland, CA
+January 2009 - March 2009
+Coordinate training materials, and assist Network Engineers with organization and writing of Standard Operating Procedure documents. Responsible for obtaining, formatting and delivering quotes for all hardware and software requested by clients within the stated 4 hours. Remote administration of servers including but not limited to installation of software, creation of Group Policy Objects, set-up of new user accounts within both Active Directory and Exchange 2003/2007. Generating, formatting, analysing and delivering monthly monitoring reports, letting customers know the state of their servers.
+
+University of California, Berkeley - Electrical Engineering and Computer Science Departments
+Department Secretary / Administrative Assistant III (permanent) | Berkeley, CA
+March 2008 - October 2008
+Electrical Engineering textbook orders; course grades (including incompletes and grade-change requests), seminar listings; maintain TA library; support for specific faculty and their courses; approve changes to faculty database; maintain EECS Staff web page; parking reservations and permit applications; room reservation for building conference rooms; any miscellaneous questions/problems.
+
+
+EDUCATION 
+
+2014			General Assembly, San Francisco, CA, User Experience Design Intensive
+2007			University of California, Berkeley, Berkeley, CA, Summer Mandarin Chinese intensive
+2006			University of St Andrews, Scotland, Semester abroad in Physics and CS
+2003 - 2007		Bryn Mawr College, Bryn Mawr, PA, Bachelor’s degree in Physics
+
+
+VOLUNTEERING
+
+Fire Safety Volunteer | The Crucible | November 2008 – December 2015 | thecrucible.org
+Attend yearly Fire Safety training to keep current on procedures. Training includes live activities with CO2 extinguishers, wet towels, and other fire suppressants. Also covers awareness of crowd movement and control, handling of flammable materials, working directly with performers, how to communicate incidents with emergency response crews, and set-up / take-down procedures for flame effects. Responsible for checking in with performers and artists before they light up, assisting with their safety procedures, communication any concerns, and giving a go/no-go before running. Maintain a safety perimeter around active fire.
+
+Meeting Chair for BluesQuake 2014 | October 2013 – June 2014 | BluesQuake | bluesquake.com
+BluesQuake 2014 was a massively successful first-time event that attracted dancers from all over the country. Despite some last-minute changes, everything went smoothly and we got some extremely positive feedback. Our initial event exceeded expectations both in attendance and revenue by 50%, which enabled us to seed the next several years' events. Event is in its third year, and is now a standard fixture on the national workshop weekend calendar.
+
+Editor and Designer | i am the cavalry | ongoing since August 2014 | iamthecavalry.org
+Our mission is to ensure technologies with the potential to impact public safety and human life are worthy of our trust. We will achieve this mission through education, outreach and promoting research, and as an independent voice of reason from the security community. Designed outreach flyers targeted both to automotive industry professionals as well as security researchers and the general public. Edit public blog posts and graphics for the website.
+
+Girls Science Institute Volunteer | Exploratorium | May 2014 & May 2015 | exploratorium.edu/education/day-camps
+One- and two-day volunteer stints with the Girls Science Institute - a week-long summer camp of hands-on learning at the Exploratorium for girls aged 10 to 12. Assist with project set-up in the morning, registration and check-in, maintaining order throughout the day, answer questions and guide exploration, and generally be present as a female engineer role model.
+
+Founding Board Member | Sundown Blues Dance Society | July 2014 – December 2015 | sundownblues.com
+The Sundown Blues Society hosts the longest-running weekly blues dance in the country. Since taking over from Beyond Blues in 2014, Sundown Blues has been providing quality blues music and dance instruction to the Bay Area.
+Individually responsible for restructuring community and cultural expectations within two weekly venues. Created documentation and processes to facilitate communication between all volunteers within the organization, as well as accountability to community members.
+
+QA & UX Consultant | CRAYFIS | October 2014 – March 2015 | crayfis.ps.uci.edu/about.html
+Developed by several people in the Department of Physics [and Astronomy], University of California Davis [and Irvine], CRAYFIS is an app that runs on Android and iOS to detect high-energy cosmic ray particles. Using a distributed network of smart phone cameras all over the world, the group hopes to get a better understanding of some of the fundamental aspects of the universe.
+
+Editor | BlacksmitHER | March 2015 – September 2015 | blacksmither.com
+Working closely with Victoria Patti, founder, to edit podcast summaries before they are posted to the website.
+
+Curation Co-Lead | FIGMENT Project Oakland 2015 | March 2015 – October 2015 | oakland.figmentproject.org
+Internal-facing organization, communication, workflow optimization, documentation, etc. Also assisting with on-boarding and coordinating artists for the event, and supporting the other Curation volunteers. Herd cats. Write documentation. Explain documentation. Help with everything.
+
+
+INTERESTS 
+
+Reading sci-fi, fantasy, historical fiction, non-fiction, cultural history, linguistic analysis, science, poetry, etc.
+Sailing dinghies and keelboats.
+Climbing trees.
+Building big art.
+Making small art.
+Fixing mechanical problems.
+Dancing solo modern and partnered blues & lindy.
+Music. Art. Scotch. Backpacking. Travel. Fire safety.
+
+
+REFERENCES
+Available upon request.
